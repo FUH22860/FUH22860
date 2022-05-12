@@ -1,5 +1,5 @@
 # Hi, I'm a student named Andre! 👋
-- 🧠 I'm currently learning Java and Python
+- 🧠 I'm currently learning Java
 
 - 💬 Ask me about anything you would like to know about me or my projects
 
