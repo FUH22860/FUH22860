@@ -38,4 +38,4 @@ I'm a full time  IT student at HTL Spengergasse in Vienna
 <img align="center" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" height="40" width="40" />
 </a>
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FUH22860&theme=dark&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="FUH22860 stats card" /></p>
+<img align="center" src="https://github-readme-stats.zohan.tech/api/top-langs?username=FUH22860&theme=dark&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="FUH22860 stats card" /></p>
